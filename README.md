@@ -13,7 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/ya_rabiya_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ya_rabiya_m" height="30" width="40" /></a>
+
+
+<a href="https://telegram.com/ya_rabiya_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="@ya_rabiya_m" height="30" width="40" />a href="https://instagram.com/ya_rabiya_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ya_rabiya_m" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/robiyaxon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="robiyaxon" height="30" width="40" /></a>
 </p>
 
