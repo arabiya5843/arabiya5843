@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Robiya</h1>
 <h3 align="center">A passionate backend python developer from Uzbekistan</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arabiya5843" alt="arabiya5843" /></a> </p>
+
 - 🌱 I’m currently learning **Testing Faker and Algorithm**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arabiya5843?tab=repositories](https://github.com/arabiya5843?tab=repositories)
@@ -11,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/ya_rabiya_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ya_rabiya_m" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/robiyaxon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="robiyaxon" height="30" width="40" /></a>
 </p>
 
