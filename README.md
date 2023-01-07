@@ -13,9 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-
-<a href="https://telegram.com/ya_rabiya_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="@ya_rabiya_m" height="30" width="40" />a href="https://instagram.com/ya_rabiya_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ya_rabiya_m" height="30" width="40" /></a>
+<a href="https://instagram.com/ya_rabiya_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ya_rabiya_m" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/robiyaxon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="robiyaxon" height="30" width="40" /></a>
 </p>
 
@@ -27,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arabiya5843&show_icons=true&locale=en" alt="arabiya5843" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arabiya5843&" alt="arabiya5843" /></p>
-
