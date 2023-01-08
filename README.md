@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Django, DRF, Postgresql and etc**
 
-- 📫 How to reach me **robiyamuzaffarova@gamil.com**
+- 📫 How to reach me **robiyamuzaffarova@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
