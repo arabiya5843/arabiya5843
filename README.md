@@ -3,6 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arabiya5843" alt="arabiya5843" /></a> </p>
 
+
+<img align="right" alt="Coding" width="400" src="https://cdm.dribble.com/users/2646423/screenshot/5507196/computer.gif">
+
 - 🌱 I’m currently learning **Testing Faker and Algorithm**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arabiya5843?tab=repositories](https://github.com/arabiya5843?tab=repositories)
