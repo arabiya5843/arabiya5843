@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend python developer from Uzbekistan</h3>
 
 
-- 🌱 I’m currently learning **Testing Faker and Algorithm**
+- 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arabiya5843?tab=repositories](https://github.com/arabiya5843?tab=repositories)
 
