@@ -14,10 +14,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/ya_rabiya_m">
+<a href="https://t.me/robiya_muzaffarova">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="ya_rabiya_m" height="30" width="40" />
 </a>
-<a href="https://instagram.com/ya_rabiya_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ya_rabiya_m" height="30" width="40" /></a>
+<a href="https://instagram.com/ya_rabiya_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="robiya_muzaffarova" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/robiyaxon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="robiyaxon" height="30" width="40" /></a>
 </p>
 
