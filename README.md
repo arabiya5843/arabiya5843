@@ -6,7 +6,7 @@
 
 - 👨‍💻 Many of my projects are available at [https://github.com/arabiya5843?tab=repositories](https://github.com/arabiya5843?tab=repositories)
 
-- 💬 Ask me about **Python, Django, DRF, Postgresql, Permission and etc**
+- 💬 Ask me about **Python, Django, DRF, Postgresql, Permission, Open AI API and etc**
 
 - 📫 How to reach me **robiyamuzaffarova@gmail.com**
 
